@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi there, I'm Miso</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=00C8FF&center=true&vCenter=true&width=435&lines=Aspiring+Developer+💻;Open-Source+Enthusiast+🌱;Always+Learning+New+Things+🚀" alt="Typing SVG" />
